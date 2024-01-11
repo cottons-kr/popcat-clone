@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Nunito';
+  font-weight: 400;
+  src: url("https://popcat.click/fonts/subset-Nunito-Regular.5ff6b40a.woff2");
+}
+
+@font-face {
+  font-family: 'Nunito';
+  font-weight: 500;
+  src: url("https://popcat.click/fonts/subset-Nunito-SemiBold.d879ca4a.woff2");
+}
+
+@font-face {
+  font-family: 'Nunito';
+  font-weight: 900;
+  src: url("https://popcat.click/fonts/subset-Nunito-Black.4fb0eeff.woff2");
+}
